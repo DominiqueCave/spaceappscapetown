@@ -17,3 +17,6 @@ Please find the public pages for NASA Space Apps here:
 <img width="100%" height="567" alt="venue map" src="https://github.com/user-attachments/assets/c1470949-2819-4fac-beda-5b5c44d60fe0" />
 
 <img width="712" height="1000" alt="PosterV2" src="https://github.com/user-attachments/assets/f74d7098-0a17-474c-974c-34b1c397423b" />
+
+![WhatsApp Image 2025-09-29 at 16 22 06_8089465f](https://github.com/user-attachments/assets/bfec37bf-f377-43a3-813b-5ee0af4509a0)
+https://bit.ly/space-apps-sa 
