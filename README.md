@@ -3,6 +3,11 @@ Welcome to the NASA Space Apps Local Event for Cape Town.
 __________________________________________________________________________________________
 Please find the public pages for NASA Space Apps here:
 🚀https://www.spaceappschallenge.org/2025/
+<h2></h2>
+LIVE LINK TO CAPE TOWN: DAY 2
+https://youtube.com/live/00NGZgXZzIA?feature=share
+</h2>
+
 
 🏆Challenges: https://www.spaceappschallenge.org/2025/challenges/
 
