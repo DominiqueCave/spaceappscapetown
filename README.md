@@ -1,5 +1,5 @@
 #SpaceAppsCapeTown
-Welcome to the NASA Space Apps Local Event for Cape Town. 
+<h1>Welcome to the NASA Space Apps Local Event for Cape Town.</h1> 
 ______________________________________________________________________________________________________
 
 ![IMG-20251005-WA0014](https://github.com/user-attachments/assets/af3d3b58-497f-4348-bcf4-c094bd4fbaff)
