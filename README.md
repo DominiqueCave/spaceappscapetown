@@ -1,13 +1,14 @@
 #SpaceAppsCapeTown
 Welcome to the NASA Space Apps Local Event for Cape Town. 
+______________________________________________________________________________________________________
+
+![IMG-20251005-WA0014](https://github.com/user-attachments/assets/af3d3b58-497f-4348-bcf4-c094bd4fbaff)
 __________________________________________________________________________________________
 Please find the public pages for NASA Space Apps here:
 🚀https://www.spaceappschallenge.org/2025/
-__________________________________________________________________________________________
-<h2>
+_________________________________________________________________________________________
 LIVE LINK TO CAPE TOWN: DAY 2
 https://youtube.com/live/00NGZgXZzIA?feature=share
-</h2>
 __________________________________________________________________________________________
 
 🏆Challenges: https://www.spaceappschallenge.org/2025/challenges/
